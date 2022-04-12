@@ -1,2 +1,1 @@
-# TinCat
-Html CSS based Cat's website
+TinDog Starting Files
